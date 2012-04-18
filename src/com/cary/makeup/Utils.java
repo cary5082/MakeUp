@@ -1,0 +1,85 @@
+package com.cary.makeup;
+
+import java.util.ArrayList;
+import java.util.List;
+
+public class Utils {
+
+	public static List<String> getBrandList(){
+		List<String> list=new ArrayList<String>();
+		list.add("Arden 雅顿");
+		list.add("Anna Sui 安娜苏");
+		list.add("AMANI 阿玛尼");
+		list.add("Adidas 阿迪达斯");
+		list.add("Aveda 艾凡达");
+		list.add("Borghese 贝佳斯");
+		list.add("Biotherm 碧欧泉");
+		list.add("Benefit 贝玲妃");
+		list.add("Bobbi Brown 芭比布朗");
+		list.add("Burberry 巴宝莉");
+		list.add("Burts Bees 小蜜蜂");
+		list.add("Clinique 倩碧");
+		list.add("Clarins 娇韵诗");
+		list.add("Cetaphil 丝塔芙");
+		list.add("Charmzone 婵真");
+		list.add("Chanel 香奈尔");
+		list.add("Calvin Klein");
+		list.add("Coppertone 水宝宝");
+		list.add("Dove 多芬");
+		list.add("DHC 蝶翠诗");
+		list.add("Dr.Jart+");
+		list.add("Dior 迪奥");
+		list.add("Davidoff 大卫杜夫");
+		list.add("DKNY 唐可娜儿");
+		list.add("Estee Lauder 雅诗兰黛");
+		list.add("Etude House 爱丽小屋");
+		list.add("Fancl 芳珂");
+		list.add("Cucumber 广源良");
+		list.add("Garnier 卡尼尔");
+		list.add("Guerlian 娇兰");
+		list.add("Givenchy 纪梵希");
+		list.add("火烈鸟");
+		list.add("H20 水之澳");
+		list.add("HR 赫莲娜");
+		list.add("Herbacin 小甘菊");
+		list.add("Kiehls 契尔氏");
+		list.add("Kose 高丝");
+		list.add("Kenzo 高田贤三");
+		list.add("瑰珀翠");
+		list.add("Loreal 欧莱雅");
+		list.add("Lancome 兰蔻");
+		list.add("Loccitane 欧舒丹");
+		list.add("Laneige 兰芝");
+		list.add("Lamer 海蓝之谜");
+		list.add("Max Factor 蜜丝佛陀");
+		list.add("Mentholatum 曼秀雷敦");
+		list.add("Missha 谜尚");
+		list.add("MAC 魅可");
+		list.add("Make up for ever 浮生若梦");
+		list.add("Mabelline 美宝莲");
+		list.add("Nuxe 欧树");
+		list.add("Neutrogena 露得清");
+		list.add("Naruko 牛尔娜露可");
+		list.add("Origins 品木宣言");
+		list.add("Olay 玉兰油");
+		list.add("Palmers 雅儿");
+		list.add("Shu Uemura 植村秀");
+		list.add("Skinfood 思亲肤");
+		list.add("Skin79 	SK-II");
+		list.add("Sisley 希思黎");
+		list.add("Sofina 苏菲娜");
+		list.add("Stila 诗狄娜");
+		list.add("The body shop 美体小铺");
+		list.add("Talika 塔莉卡");
+		list.add("The Face Shop 菲诗小铺");
+		list.add("TonyMoly 魔法森林");
+		list.add("Vichy 薇姿");
+		list.add("VOV 薇欧薇");
+		list.add("相宜本草");
+		list.add("YSL 圣罗兰");
+		list.add("Shiseido 资生堂");
+		list.add("昭贵");
+		list.add("ZA 姬芮");
+		return list;
+	}
+}
